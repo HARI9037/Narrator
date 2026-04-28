@@ -1,0 +1,8 @@
+mss
+opencv-python
+sounddevice
+scipy
+openai-whisper
+Pillow
+moviepy
+numpy
